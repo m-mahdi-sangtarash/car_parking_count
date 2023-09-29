@@ -1,4 +1,4 @@
-### Counting empty parking spaces
+### Counting empty parking spaces\n
 |
 |__ Opencv (python)
 |
@@ -6,3 +6,5 @@
 
 
 Motivate me by giving me stars :)
+
+https://github.com/m-mahdi-sangtarash/car_parking_count/blob/main/output/countParking-output.mp4
